@@ -1,0 +1,24 @@
+{
+  "name": "mmm-torrent9",
+  "version": "1.0.0",
+  "description": "Torrent9 scrapper module for MagicMirror2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plumcraft/mmm-torrent9.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "torrent9"
+  ],
+  "author": "plumcraft",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plumcraft/mmm-torrent9/issues"
+  },
+  "homepage": "https://github.com/plumcraft/mmm-torrent9#readme",
+  "dependencies": {
+    "request": "^2.34",
+    "request-promise": "^4.1.1",
+    "cheerio": "^0.22.0"
+  }
+}
